@@ -15,7 +15,8 @@ Personal data describes any information about you, including your name, social s
 
 Cybercriminals can use this sensitive information to identify and impersonate you, infringing on your privacy and potentially causing serious damage to your reputation.
 
-# How hacker gets hands on your data?
+---
+## How hacker gets hands on your data?
 1. Medical records
 Every time you visit the doctor, personal information regarding your physical and mental health and wellbeing is added to your electronic health records (EHRs). Since the majority of these records are saved online, you need to be aware of the medical information that you share.
 
@@ -38,7 +39,8 @@ iv. Don’t choose a super-odd username and then reuse it again and again — it
 v. Don’t choose a username that gives clues to your passwords such as a series of numbers/letters, the first part of a two-part phrase, such as knock-knock or starlight, or the department in which you work, such as IT.
 vi. Do choose a username that’s appropriate for the type of account, i.e., business, social or personal.
 
-# How your data can be spread globally?
+---
+## How your data can be spread globally?
 Only yesterday, you shared a couple of photos of your first day on the job with a few of your close friends. But that should be OK, right? But
 
 Step 1: 
@@ -53,7 +55,8 @@ All of your friends downloaded the photos and now have copies of your photos on 
 Step 4:
 One of your friends was so proud that they decided to post and share your photos online. The photos are no longer just on your device. They have in fact ended up on servers located in different parts of the world and people whom you don’t even know now have access to your photos.
 
-# Who else wants your personal data?
+---
+## Who else wants your personal data?
 1. Your Internet Service Provider(ISP)
 Your ISP tracks your online activity and, in some countries, they can sell this data to advertisers for a profit.
 In certain circumstances, ISPs may be legally required to share your information with government surveillance agencies or authorities.
@@ -81,7 +84,9 @@ iii. Financial data such as income statements, balance sheets and cash flow stat
 2. Internet Of Things(IOT) and Big Data
 IoT is a large network of physical objects, such as sensors, software and other equipment. All of these ‘things’ are connected to the Internet, with the ability to collect and share data. And given that storage options are expanding through the cloud and virtualization, it’s no surprise that the emergence of IoT has led to an exponential growth in data, creating a new area of interest in technology and business called 'Big Data.'
 
-# The Cube ( John McCumber -1991 )
+---
+
+## The Cube ( John McCumber -1991 )
 The McCumber Cube is a model framework to help organizations establish and evaluate information security initiatives by considering all of the related factors that impact them. This security model has three dimensions:
 
 1. The foundational principles for protecting information systems.
@@ -109,7 +114,7 @@ ii. Technology refers to the software- and hardware-based solutions designed to 
 
 iii. Policy and procedure refers to the administrative controls that provide a foundation for how an organization implements information assurance, such as incident response plans and best practice guidelines.
 
-# Data Security Breaches
+## Data Security Breaches
 ![Camera](images/Camera.png)
 The Persirai botnet
 In 2017, an IoT botnet, Persirai, targeted over 1000 different models of IP cameras, accessing open ports to inject a command that forced the cameras to connect to a site which installed malware on them. Once the malware was downloaded and itself and was therefore able to run in memory to avoid detection.
@@ -118,7 +123,8 @@ Over 122,000 of these cameras from several different manufacturers were hijacked
 
 The IoT is connecting more and more devices, creating more opportunities for cybercriminals to attack.
 
-# Concequence of Security breach
+---
+## Concequence of Security breach
 1. Reputation Damange
 A security breach can have a negative long-term impact on an organization’s reputation that has taken years to build. Customers, particularly those who have been adversely affected by the breach, will need to be notified and may seek compensation and/or turn to a reliable and secure competitor. Employees may also choose to leave in light of a scandal.
 

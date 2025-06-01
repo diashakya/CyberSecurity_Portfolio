@@ -3,17 +3,17 @@
 Welcome to my Cybersecurity Learning Log!  
 This repository documents my journey through the **Cisco Networking Academy’s Junior Cybersecurity Analyst Career Path**.
 
-## 🚀 Objective
+##  Objective
 To gain foundational knowledge and hands-on skills in cybersecurity, including networking basics, endpoint protection, threat management, and network defense — while preparing for the **CCST Cybersecurity Certification**.
 
 ---
 
-## 🧭 Course Overview
+##  Course Overview
 
 | Course Title                              | Duration | Status     |
 |------------------------------------------|----------|------------|
-| ✅ Introduction to Cybersecurity         | 6 hrs    | Completed / In Progress |
-| ✅ Networking Basics                     | 22 hrs   | Planned / In Progress |
+| ✅ Introduction to Cybersecurity         | 6 hrs    | In Progress |
+| ✅ Networking Basics                     | 22 hrs   | Planned |
 | ✅ Networking Devices & Configuration    | 22 hrs   | Planned |
 | ✅ Endpoint Security                     | 27 hrs   | Planned |
 | ✅ Network Defense                       | 27 hrs   | Planned |
@@ -21,30 +21,15 @@ To gain foundational knowledge and hands-on skills in cybersecurity, including n
 
 ---
 
-## 🗂️ Repository Structure
+
 
 
 ---
 
-cybersecurity-learning-log/
-│
-├── Week01_Intro/
-│ ├── notes.md
-│ └── diagrams/
-│
-├── Week02_Networking/
-│ ├── packet_tracer.pkt
-│ └── networking_notes.md
-│
-├── Labs/
-│ └── screenshots, configs, .pkt files
-│
-├── CCST_Exam_Notes/
-│ └── study_guide.md
-│
-└── README.md
 
-## 🧠 What I’m Learning
+
+
+##  What I’m Learning
 - Cybersecurity fundamentals and terminology
 - How computer networks work (TCP/IP, routers, switches)
 - Protecting endpoints and systems from threats
@@ -54,23 +39,18 @@ cybersecurity-learning-log/
 
 ---
 
-## 🔧 Tools Used
-- 📶 Cisco Packet Tracer
-- 🐧 Kali Linux (later for labs)
-- 💻 Wireshark, VirtualBox
-- ✏️ Markdown for notes
-- 📂 GitHub for documentation
+##  Tools Used
+-  Cisco Packet Tracer
+-  Kali Linux (later for labs)
+-  Wireshark, VirtualBox
+-  Markdown for notes
+-  GitHub for documentation
 
 ---
 
-## 📅 Weekly Updates
-I’ll be posting:
-- 📘 Weekly summaries of topics learned
-- 📎 Lab files and configurations
-- 🧠 Takeaways from each module
 
 Follow my journey on:
-- [Twitter](https://x.com/diyashakya01) #100DaysOfCyber
+- [Twitter](https://x.com/diyashakya01) 
 - [LinkedIn](https://www.linkedin.com/in/diya-shakya-3178672b0/)
 
 ---
@@ -87,4 +67,4 @@ Feel free to fork this repo, open issues for discussion, or share resources!
 
 ---
 
-_“Cybersecurity is much more than a matter of IT.” — Stephane Nappo_
+
