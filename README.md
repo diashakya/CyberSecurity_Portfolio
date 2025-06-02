@@ -1,4 +1,4 @@
-# 🛡️ Cybersecurity Learning Log
+#  Cybersecurity Learning Log
 
 Welcome to my Cybersecurity Learning Log!  
 This repository documents my journey through the **Cisco Networking Academy’s Junior Cybersecurity Analyst Career Path**.
@@ -55,13 +55,13 @@ Follow my journey on:
 
 ---
 
-## 📜 Certification Goal
-🎯 I aim to complete this path and pass the  
+## Certification Goal
+I aim to complete this path and pass the  
 **Cisco Certified Support Technician (CCST) – Cybersecurity** certification by `TARGET DATE`.
 
 ---
 
-## 🙌 Connect With Me
+##  Connect With Me
 If you're learning cybersecurity too, let's connect!  
 Feel free to fork this repo, open issues for discussion, or share resources!
 
