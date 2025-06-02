@@ -94,6 +94,7 @@ The McCumber Cube is a model framework to help organizations establish and evalu
 3. The security measures used to protect data. 
 
 ![CIA](images/CIA.png)
+
 i. Confidentiality is a set of rules that prevents sensitive information from being disclosed to unauthorized people, resources and processes. Methods to ensure confidentiality include data encryption, identity proofing and two factor authentication.
 
 ii. Integrity ensures that system information or processes are protected from intentional or accidental modification. One way to ensure integrity is to use a hash function or checksum.
@@ -101,6 +102,7 @@ ii. Integrity ensures that system information or processes are protected from in
 iii. Availability means that authorized users are able to access systems and data when and where needed and those that do not meet established conditions, are not. This can be achieved by maintaining equipment, performing hardware repairs, keeping operating systems and software up to date, and creating backups.
 
 ![PST](images/PST.png)
+
 i. Processing refers to data that is being used to perform an operation such as updating a database record (data in process).
 
 ii. Storage refers to data stored in memory or on a permanent storage device such as a hard drive, solid-state drive or USB drive (data at rest).
@@ -108,6 +110,7 @@ ii. Storage refers to data stored in memory or on a permanent storage device suc
 iii. Transmission refers to data traveling between information systems (data in transit).
 
 ![ATP](images/ATP.png)
+
 i. Awareness, training and education are the measures put in place by an organization to ensure that users are knowledgeable about potential security threats and the actions they can take to protect information systems.
 
 ii. Technology refers to the software- and hardware-based solutions designed to protect information systems such as firewalls, which continuously monitor your network in search of possible malicious incidents.
@@ -116,6 +119,7 @@ iii. Policy and procedure refers to the administrative controls that provide a f
 
 ## Data Security Breaches
 ![Camera](images/Camera.png)
+
 The Persirai botnet
 In 2017, an IoT botnet, Persirai, targeted over 1000 different models of IP cameras, accessing open ports to inject a command that forced the cameras to connect to a site which installed malware on them. Once the malware was downloaded and itself and was therefore able to run in memory to avoid detection.
 
@@ -140,3 +144,115 @@ The financial impact of a security breach can be devastating. For example, hacke
 
 5. Damaged Intellectual Property
 A security breach could also have a devastating impact on the competitiveness of an organization, particularly if hackers are able to get their hands on confidential documents, trade secrets and intellectual property.
+
+---
+# What's Exploit?
+An exploit is like a hack that breaks into a system by using its flaws.
+
+# Scenario 1 (Hotel Info)
+According to our sources, a well known hotel chain that operates across the world has reported a massive data breach, with the personal information of over three million guests exposed to hackers.
+
+The hotel discovered that hackers gained access to its customer database by using the login details of one of its employees.
+
+At this point, the hotel doesn’t believe that the hackers were able to access any account passwords or financial information. Recent guests are encouraged to check the hotel chain’s web portal to see if they have been impacted by this breach.
+
+# Scenario 2 (E-learning platform)
+A popular online training platform admitted leaving the personal data of millions of its students (many of them minors) exposed on a publicly accessible cloud database.
+
+Hackers were able to directly access students’ full names, email addresses, phone numbers, and school enrollment details from the Internet!
+
+While it’s unclear what the hackers have done with this acquired information, it’s safe to say that they have everything they need to carry out widespread phishing or malware attacks.
+
+In both cases, the organizations need to invest in improved security practices.
+
+This might include:
+
+i. investing in cybersecurity training for all staff so that they are aware of and able to spot a cyber attack
+ii. enforcing two factor authentication for employees accessing files and applications that contain sensitive data
+iii. maintaining log files and ongoing monitoring to identify anomalous behavior that might indicate a data breach
+iv. storing the passwords of customers using a combination of salting and robust hashing algorithms
+v. separating cloud-based resources from the public Internet into an isolated private network segment
+vi. granting employee access to personal data and internal systems only via a secure VPN connection.
+
+## Types of Attackers
+Let’s look at some of the main types of cyber attackers who’ll try anything to get their hands on our information. They are often categorized as white hat, gray hat or black hat attackers.
+
+1. Amateurs
+The term 'script kiddies' emerged in the 1990s and refers to amateur or inexperienced hackers who use existing tools or instructions found on the Internet to launch attacks. Some script kiddies are just curious, others are trying to demonstrate their skills and cause harm. While script kiddies may use basic tools, their attacks can still have devastating consequences.
+
+2. Hackers
+This group of attackers break into computer systems or networks to gain access. Depending on the intent of their break in, they can be classified as white, gray or black hat hackers.
+
+i. White hat attackers break into networks or computer systems to identify any weaknesses so that the security of a system or network can be improved. These break-ins are done with prior permission and any results are reported back to the owner.
+
+ii. Gray hat attackers may set out to find vulnerabilities in a system but they will only report their findings to the owners of a system if doing so coincides with their agenda. Or they might even publish details about the vulnerability on the internet so that other attackers can exploit it.
+
+iii. Black hat attackers take advantage of any vulnerability for illegal personal, financial or political gain.
+
+White hat attackers aim to discover security weaknesses so that they can be improved, whereas black hat attackers take advantage of any vulnerabilities for illegal personal, financial or political gain. Gray hat attackers are somewhere in between. While they may not have malicious intentions, they want to get something for their discovery.
+
+3. Organized hackers
+These attackers include organizations of cyber criminals, hacktivists, terrorists and state-sponsored hackers. They are usually highly sophisticated and organized, and may even provide cybercrime as a service to other criminals.
+
+Hacktivists make political statements to create awareness about issues that are important to them.
+
+State-sponsored attackers gather intelligence or commit sabotage on behalf of their government. They are usually highly trained and well-funded and their attacks are focused on specific goals that are beneficial to their government.
+
+# Internal and External Threats
+1. Internal 
+Employees, contract staff or trusted partners can accidentally or intentionally:
+i. mishandle confidential data
+ii. facilitate outside attacks by connecting infected USB media into the organination's computer system
+iii. invite malware onto the organization's network by clicking on malicious emails or website
+iv. threaten the operations of internal servers or network infastructure devices.
+
+2. External
+Amateurs or skilled attackers outside of the organization can:
+i. exploit vulnerabilities in the network
+ii. gain unauthorized access to computing devices
+iii. use social engineering to gain unauthorized access to organizational data.
+
+---
+## Cyberwarfare
+Cyberwarfare, as its name suggests, is the use of technology to penetrate and attack another nation’s computer systems and networks in an effort to cause damage or disrupt services, such as shutting down a power grid.
+
+# Purpose of Cyberwarfare
+The main reason for resorting to cyberwarfare is to gain advantage over adversaries, whether they are nations or competitors.
+1. To gather compromised information and/or defense secrets
+A nation or international organization can engage in cyberwarfare in order to steal defense secrets and gather information about technology that will help narrow the gaps in its industries and military capabilities.
+
+Furthermore, compromised sensitive data can give attackers leverage to blackmail personnel within a foreign government.
+
+2. To impact another nation’s infrastructure
+Besides industrial and military espionage, a nation can continuously invade another nation’s infrastructure in order to cause disruption and chaos.
+
+For example, a cyber attack could shut down the power grid of a major city. Consider the consequences if this were to happen; roads would be congested, the exchange of goods and services would be halted, patients would not be able to get the care they would need if an emergency occurred, access to the internet would be interrupted. By shutting down a power grid, a cyber attack could have a huge impact on the everyday life of ordinary citizens.
+
+foreg:
+Stuxnet is one of the most sophisticated and dangerous computer worms ever discovered. It was designed to sabotage Iran's nuclear program and is widely believed to be the first cyber weapon created to cause physical damage to critical infrastructure.
+
+i. It targeted industrial control systems (ICS), specifically Siemens PLCs (Programmable Logic Controllers).
+
+ii. It was designed to disrupt uranium enrichment at Iran’s Natanz nuclear facility by spinning centrifuges out of control.
+
+# How Did It Work?
+i. Infection via USB
+Spread through USB drives, allowing it to enter air-gapped (offline) systems.
+
+ii. Exploiting Zero-Day Vulnerabilities
+Used four Windows zero-day vulnerabilities, extremely rare for malware.
+
+iii. Targeted Specific Hardware
+Once inside, it searched for specific Siemens Step7 systems connected to centrifuge controllers.
+
+iv. Manipulated Equipment Stealthily
+It sent fake signals to the monitoring software so that engineers saw normal values, even as the machines were being damaged.
+
+# Lessons for Cybersecurity:
+i. Air-gapped systems aren't 100% safe.
+
+ii. ICS/SCADA systems need strong security.
+
+iii. Nation-state attacks are real and capable of cyber-physical destruction.
+
+iv. Importance of patching vulnerabilities, especially in critical infrastructure.
