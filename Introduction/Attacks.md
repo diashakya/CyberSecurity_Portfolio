@@ -102,11 +102,8 @@ Social engineering is the manipulation of people into performing actions or divu
 For example, an attacker will call an authorized employee with an urgent problem that requires immediate network access and appeal to the employee’s vanity or greed or invoke authority by using name-dropping techniques in order to gain this access.
 
 i. Pretexting
-
 ![Pretexting](images/pretexting.png)
-
 This is when an attacker calls an individual and lies to them in an attempt to gain access to privileged data.
-
 For example, pretending to need a person’s personal or financial data in order to confirm their identity.
 
 ii. tailgating
