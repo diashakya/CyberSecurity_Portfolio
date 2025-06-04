@@ -97,42 +97,43 @@ ix. emails being sent without your knowledge or consent.
 Infiltration is how attackers gain unauthorized access to a system, network, or device  often by bypassing defenses stealthily.
 
 1. Social Engineering
+
 Social engineering is the manipulation of people into performing actions or divulging confidential information. Social engineers often rely on people’s willingness to be helpful, but they also prey on their weaknesses. 
 
 For example, an attacker will call an authorized employee with an urgent problem that requires immediate network access and appeal to the employee’s vanity or greed or invoke authority by using name-dropping techniques in order to gain this access.
 
 i. Pretexting
-![Pretexting](images/pretexting.png)
-This is when an attacker calls an individual and lies to them in an attempt to gain access to privileged data.
+
+![Pretexting](images/pretexting.png) This is when an attacker calls an individual and lies to them in an attempt to gain access to privileged data.
 For example, pretending to need a person’s personal or financial data in order to confirm their identity.
 
-ii. tailgating
+ii. Tailgating
 
-![Tailgating](images/tailgating.png)
-
-This is when an attacker quickly follows an authorized person into a secure, physical location.
+![Tailgating](images/tailgating.png) This is when an attacker quickly follows an authorized person into a secure, physical location.
 
 iii. Something for something (quid pro quo)
 
-![Inexchange](images/free.png)
-
-This is when an attacker requests personal information from a person in exchange for something, like a free gift.
+![Inexchange](images/free.png) This is when an attacker requests personal information from a person in exchange for something, like a free gift.
 
 2. Denial-of-Service
+
 Denial-of-Service (DoS) attacks are a type of network attack that is relatively simple to carry out, even by an unskilled attacker. A DoS attack results in some sort of interruption of network service to users, devices or applications.
 
 # Two main types of DoS attack
 i. Overwhelming quality of traffic
+
 This is when a network, host or application is sent an enormous amount of data at a rate which it cannot handle. This causes a slowdown in transmission or response, or the device or service to crash.
 
 ii. Maliciously formatted packets
+
 A packet is a collection of data that flows between a source and a receiver computer or application over a network, such as the internet. When a maliciously formatted packet is sent, the receiver will be unable to handle it.
 
 foreg: If an attacker forwards packets containing errors or improperly formatted packets that cannot be identified by an application, this will cause the receiving device to run very slowly or crash.
 
- DoS attacks are considered a major risk because they can easily interrupt communication and cause significant loss of time and money.
+DoS attacks are considered a major risk because they can easily interrupt communication and cause significant loss of time and money.
 
  3. Distributed DoS
+ 
  A Distributed DoS (DDoS) attack is similar to a DoS attack but originates from multiple, coordinated sources. For example:
 
 An attacker builds a network (botnet) of infected hosts called zombies, which are controlled by handler systems.
