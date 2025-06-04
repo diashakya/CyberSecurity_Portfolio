@@ -104,16 +104,16 @@ For example, an attacker will call an authorized employee with an urgent problem
 
 i. Pretexting
 
-![Pretexting](images/pretexting.png) This is when an attacker calls an individual and lies to them in an attempt to gain access to privileged data.
+This is when an attacker calls an individual and lies to them in an attempt to gain access to privileged data.
 For example, pretending to need a person’s personal or financial data in order to confirm their identity.
 
 ii. Tailgating
 
-![Tailgating](images/tailgating.png) This is when an attacker quickly follows an authorized person into a secure, physical location.
+This is when an attacker quickly follows an authorized person into a secure, physical location.
 
 iii. Something for something (quid pro quo)
 
-![Inexchange](images/free.png) This is when an attacker requests personal information from a person in exchange for something, like a free gift.
+This is when an attacker requests personal information from a person in exchange for something, like a free gift.
 
 2. Denial-of-Service
 
@@ -132,15 +132,16 @@ foreg: If an attacker forwards packets containing errors or improperly formatted
 
 DoS attacks are considered a major risk because they can easily interrupt communication and cause significant loss of time and money.
 
- 3. Distributed DoS
+3. Distributed DoS
  
- A Distributed DoS (DDoS) attack is similar to a DoS attack but originates from multiple, coordinated sources. For example:
+A Distributed DoS (DDoS) attack is similar to a DoS attack but originates from multiple, coordinated sources. For example:
 
 An attacker builds a network (botnet) of infected hosts called zombies, which are controlled by handler systems.
 The zombie computers will constantly scan and infect more hosts, creating more and more zombies.
 When ready, the hacker will instruct the handler systems to make the botnet of zombies carry out a DDoS attack.
 
 4. Botnet
+
 A bot computer is typically infected by visiting an unsafe website or opening an infected email attachment or infected media file. A botnet is a group of bots, connected through the Internet, that can be controlled by a malicious individual or group. It can have tens of thousands, or even hundreds of thousands, of bots that are typically controlled through a command and control server.
 
 These bots can be activated to distribute malware, launch DDoS attacks, distribute spam email, or execute brute-force password attacks. Cybercriminals will often rent out botnets to third parties for nefarious purposes.
@@ -148,11 +149,15 @@ These bots can be activated to distribute malware, launch DDoS attacks, distribu
 Many organizations. like Cisco, force network activities through botnet traffic filters to identify any botnet locations.
 
 i. Infected bots try to communicate with a command and control host on the internet.
+
 ii. The Cisco Firewall botnet filter is a feature that detects traffic coming from devices infected with the malicious botnet code.
+
 iii. The cloud-based Cisco Security Intelligence Operation (SIO) service pushes down updated filters to the firewall that match traffic from new known botnets.
+
 iv. Alters go out to Cisco's internal security team to notify them about the infected devices that are generating malicious traffic so that they can prevent, mitigate and remedy these.
 
 5. On-path attack
+
 On-path attackers intercept or modify communications between two devices, such as a web browser and a web server, either to collect information from or to impersonate one of the devices.
 
 This type of attack is also referred to as a man-in-the-middle or man-in-the-mobile attack.
@@ -172,6 +177,7 @@ ii. Man-in-the-Mobile
 A variation of man-in-middle, MitMo is a type of attack used to take control over a user's mobile device. When infected, the mobile device is instructed to exfiltrate users-sensitive information and send it to the attackers. ZeuS is one example of a malware package with MitMo capabilities. It allows attackers to quietly capture two-step verification SMS messages that are sent to users.
 
 6. SEO poisoning
+
 SEO which, in simple terms, is about improving an organization’s website so that it gains greater visibility in search engine results.
 
 Search engines such as Google work by presenting a list of pages to users based on their search query. These web pages are ranked according to the relevancy of their content. 
@@ -183,25 +189,31 @@ The most common goal of SEO poisoning is to increase traffic to malicious site t
 7. Wi-Fi Password Cracking
 
 8. Password Attacks
+
 Entering a username and password is one of the most popular forms of authenticating to a web site. Therefore, uncovering your password is an easy way for cybercriminals to gain access to your most valuable information.
 
 i. Password spraying
+
 This technique attempts to gain access to a system by ‘spraying’ a few commonly used passwords across a large number of accounts. For example, a cybercriminal uses 'Password123' with many usernames before trying again with a second commonly-used password, such as ‘qwerty.’
 
 This technique allows the perpetrator to remain undetected as they avoid frequent account lockouts.
 
 ii. Dictionary attacks
+
 A hacker systematically tries every word in a dictionary or a list of commonly used words as a password in an attempt to break into a password-protected account.
 
 iii. Brute-force attacks
+
 The simplest and most commonly used way of gaining access to a password-protected site, brute-force attacks see an attacker using all possible combinations of letters, numbers and symbols in the password space until they get it right.
 
 iv. Rainbow attacks
+
 Passwords in a computer system are not stored as plain text, but as hashed values (numerical values that uniquely identify data). A rainbow table is a large dictionary of precomputed hashes and the passwords from which they were calculated.
 
 Unlike a brute-force attack that has to calculate each hash, a rainbow attack compares the hash of a password with those stored in the rainbow table. When an attacker finds a match, they identify the password used to create the hash.
 
 v. Traffic interception
+
 Plain text or unencrypted passwords can be easily read by other humans and machines by intercepting communications.
 
 If you store a password in clear, readable text, anyone who has access to your account or device, whether authorized or unauthorized, can read it.
@@ -209,6 +221,7 @@ If you store a password in clear, readable text, anyone who has access to your a
 9. Cracking times
 
 10. Advanced Persistent Threats
+
 Attackers also achieve infiltration through advanced persistent threats (APTs) — a multi-phase, long term, stealthy and advanced operation against a specific target. For these reasons, an individual attacker often lacks the skill set, resources or persistence to perform APTs.
 
 Due to the complexity and the skill level required to carry out such an attack, an APT is usually well-funded and typically targets organizations or nations for business or political reasons.
