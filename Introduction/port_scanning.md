@@ -1,4 +1,4 @@
-## Port Scanning
+#Port Scanning
 
 Port scanning is a technique used to discover open ports and services on a computer or network device.
 
@@ -10,7 +10,7 @@ Imagine a building with many doors (ports). You want to check:
 
 In networking, each port represents a potential communication endpoint for a specific service or application (like a web server, email server, SSH, etc.).
 
-# How it works?
+## How it works?
 
 -Every device connected to a network has 65,535 ports (TCP/UDP).
 
