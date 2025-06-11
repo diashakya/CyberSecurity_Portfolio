@@ -24,3 +24,5 @@ Port is open --> Service is running
 Port is closed --> No service
 
 Port is filtered --> protected by firewall
+
+a port scan, a 'dropped' response (also often referred to as 'filtered' or 'blocked') means that the port scanner sent a probe packet to the target port, but received no response at all.
