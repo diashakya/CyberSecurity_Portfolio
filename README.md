@@ -12,8 +12,8 @@ To gain foundational knowledge and hands-on skills in cybersecurity, including n
 
 | Course Title                              | Duration | Status     |
 |------------------------------------------|----------|------------|
-| ✅ Introduction to Cybersecurity         | 6 hrs    | In Progress |
-| ✅ Networking Basics                     | 22 hrs   | Planned |
+| ✅ Introduction to Cybersecurity         | 6 hrs    | Done |
+| ✅ Networking Basics                     | 22 hrs   | In Progress |
 | ✅ Networking Devices & Configuration    | 22 hrs   | Planned |
 | ✅ Endpoint Security                     | 27 hrs   | Planned |
 | ✅ Network Defense                       | 27 hrs   | Planned |
