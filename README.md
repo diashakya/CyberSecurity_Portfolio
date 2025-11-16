@@ -16,7 +16,7 @@ To gain foundational knowledge and hands-on skills in cybersecurity, including n
 | ✅ Networking Basics                     | 22 hrs   | Done |
 | ✅ Networking Devices & Configuration    | 22 hrs   | Planned |
 | ✅ Endpoint Security                     | 27 hrs   | Planned |
-| ✅ Network Defense                       | 27 hrs   | Planned |
+| ✅ Network Defense                       | 28 hrs   | Planned |
 | ✅ Cyber Threat Management               | 16 hrs   | Planned |
 
 ---
