@@ -127,3 +127,11 @@ Help companies manage supply chain risks
 Support stricter requirements around AI security
 
 They want a future where companies can quickly, safely, and confidently work together without delays.
+
+Q. Based on Anthony Sielczak's insights, what is one effective strategy for navigating the early stages of a career in GRC?
+Volunteer to respond to client security questionnaires to understand security practices
+
+Q: What advice would you give to someone who is just starting their career in GRC?
+A: My best recommendation (especially as you kickstart your GRC career) is to volunteer some of your time to respond to prospective-client and client security questionnaires, as doing so exposes you to the most common questions that they have about your company and/or product and will give you a sort of crash course into your security practices. As you work through the questions, you may find areas of your security program that you can improve, whether that be through improvements to policies, customer-facing documentation (like security and compliance program white papers), or even technical controls.
+
+After spending your first year immersing yourself in as much GRC work as you, I would start to identify what specialization(s) you have a passion in – whether that's auditing and certifications, data governance, third party risk management, etc. Once you've identified what you're passionate about, you can make a better determination on the certification(s) you wish to pursue to better distinguish yourself in an increasingly competitive job market.
