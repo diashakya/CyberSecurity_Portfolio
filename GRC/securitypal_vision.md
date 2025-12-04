@@ -98,6 +98,61 @@ SecurityPal plans to:
 #### Q. Based on Anthony Sielczak's insights, what is one effective strategy for navigating the early stages of a career in GRC?
 Volunteer to respond to client security questionnaires to understand security practices.
 
+1. Access Control (Who can access what?)
+- How do you manage employee access to systems?
+- Do you use MFA (Multi-Factor Authentication)?
+- How do you revoke access when an employee leaves?
+
+2. Data Protection & Encryption
+- Are customer data encrypted at rest and in transit?
+- What encryption standards do you use (e.g., AES-256, TLS 1.2/1.3)?
+- How are encryption keys managed?
+
+3. Incident Response
+- Do you have an incident response plan?
+- How fast do you notify customers if a breach occurs?
+- What are your procedures for handling security incidents?
+
+4. Cloud Security
+- Which cloud provider do you use (AWS, GCP, Azure)?
+- How do you secure cloud storage buckets?
+- Do you follow the shared responsibility model?
+
+5. Compliance & Certifications
+- Are you SOC 2, ISO 27001, GDPR compliant?
+- Do you undergo annual security audits?
+- Do you conduct penetration testing?
+
+6. Data Retention & Deletion
+- How long do you store customer data?
+- What is your data deletion process?
+- Do customers have the right to request deletion?
+
+7. Monitoring & Logging
+- Do you monitor systems for suspicious activity?
+- How long do you keep logs?
+- What SIEM tools do you use?
+
+8. Vendor Risk Management
+- How do you evaluate third-party vendors?
+- Do you ensure vendors follow security standards?
+- Do you require DPAs (Data Processing Agreements)?
+
+9. Identity & Authentication
+- Do you use SSO (Single Sign-On)?
+- Do you enforce password policies?
+- Do you support role-based access control (RBAC)?
+
+10. Testing & Vulnerability Management
+- Do you run vulnerability scans?
+- Do you have a patch management policy?
+- How quickly do you apply security updates?
+
+11. AI & Ethical Use (New Trend)
+- How do you reduce AI model bias?
+- Do you ensure transparency in AI decisions?
+- How do you secure AI training data?
+
 #### Q: What advice would you give to someone who is just starting their career in GRC?
 My best recommendation (especially as you kickstart your GRC career) is to volunteer some of your time to respond to prospective-client and client security questionnaires, as doing so exposes you to the most common questions that they have about your company and/or product and will give you a sort of crash course into your security practices. As you work through the questions, you may find areas of your security program that you can improve, whether that be through improvements to policies, customer-facing documentation (like security and compliance program white papers), or even technical controls.
 
