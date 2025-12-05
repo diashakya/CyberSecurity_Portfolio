@@ -34,3 +34,5 @@
 10. Preparing detailed reports and documentation of compliance findings and security gaps.
 
 11. Developing and implementing controls to address cybersecurity and compliance needs across an organization.
+
+
